@@ -46,7 +46,7 @@ and
                   name
                 }
               }
-              
+             }
 5. Update a Tutorial
 
             mutation {
